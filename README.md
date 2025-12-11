@@ -14,7 +14,7 @@ Some things about me :<br/>
 :four: Experience with Angular, Node.js, Django, Git/GitHub and Linux (WSL).<br/>
 :five: I’m currently working on improving my Full Stack skills.<br/>
 :six: Looking for opportunities to work as a Junior Developer.<br/>
-:seven: How to reach me : Mail me at ![](https://chxo.com/labelgen/labelgen.php?textval=iguaran148%40gmail.com&font=ARIAL.TTF&size=12&bgcolor=%23ffffff&textcolor=%23000000&submit=create+image)<br/>
+:seven: How to reach me : Mail me at iguaran148@gmail.com <br/>
 :eight: Ask me anything related to Web Development.<br/>
 :nine: Fun fact : I am truly passionate about coding and technology.<br/>
 [![-----------------------------------------------------](
